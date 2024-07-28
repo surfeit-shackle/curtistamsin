@@ -9,3 +9,4 @@ Do what you love and the money will follow. Artificial Intelligence Success does
 Agile NLP Cache Invalidation UX Optimization Don't be afraid to give up the good to go for the great. Optimization API Success is not in what you have, but who you are. Kubernetes Event-driven Architecture Server Response Success doesn’t just find you. You have to go out and get it. Innovation distinguishes between a leader and a follower.
 Backend Difficult roads often lead to beautiful destinations. If you can dream it, you can do it. Performance Container Orchestration Content Delivery Network IoT Firewalls JWT Data Pipeline Microservices
 Containerization Event-driven Architecture Code Review Kubernetes Machine Learning Scalability
+WebSockets Stay hungry, stay foolish. Data Science React Optimization Innovation distinguishes between a leader and a follower. Zero Downtime Deployment IoT Security Database If you can dream it, you can do it. Cloud Functions

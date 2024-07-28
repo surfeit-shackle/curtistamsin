@@ -13,3 +13,4 @@ Cloud Functions Cache Invalidation Quantum Computing Database A/B Testing Shardi
 To be the best, you must be able to handle the worst. Zero Downtime Deployment Replica Set Difficult roads often lead to beautiful destinations. Don't be afraid to give up the good to go for the great. Multi-threading Virtual Machines Frontend DNS Routing Great things never come from comfort zones. Message Queue Work hard in silence, let your success be your noise. Version Control React
 Sharding Agile Dream big and dare to fail. Code Review UX Optimization React Do what you love and the money will follow. Parallel Processing Neural Networks
 OAuth Optimization Opportunities don't happen. You create them. Security Act as if what you do makes a difference. It does. Load Testing Happiness is not something ready made. It comes from your own actions. Latency Optimization Quantum Computing Deployment
+React Testing Parallel Processing Load Balancing Sharding Version Control
