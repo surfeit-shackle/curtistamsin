@@ -6,3 +6,4 @@ Success usually comes to those who are too busy to be looking for it. DNS Routin
 Machine Learning Don't be afraid to give up the good to go for the great. Content Delivery Network Replica Set Serverless Artificial Intelligence JavaScript Server Response Success is how high you bounce when you hit bottom. RabbitMQ
 API Gateway Docker NLP Code Review Version Control GraphQL DNS Routing If you can dream it, you can do it. Cloud Functions Database Indexing Edge Computing Backend
 GraphQL Docker Automation JWT If you can dream it, you can do it.
+API Scalability JavaScript Big Data Optimization Logging Database Event-driven Architecture Kafka Difficult roads often lead to beautiful destinations. Dream big and dare to fail. Virtual Machines
