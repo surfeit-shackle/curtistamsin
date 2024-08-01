@@ -5,3 +5,4 @@ Pull Request Lambda Functions IoT Kubernetes Data Pipeline To be the best, you m
 Logging Event-driven Architecture Edge Computing Blockchain Kubernetes Event Sourcing Kafka Deployment Microservices
 JWT NLP JavaScript Difficult roads often lead to beautiful destinations. Cache Invalidation Kubernetes Latency Optimization React Serverless Agile Stay hungry, stay foolish. Logging
 Microservices Containerization Opportunities don't happen. You create them. API Simplicity is the ultimate sophistication. Container Orchestration Content Delivery Network Kubernetes OAuth Data Science
+Work hard in silence, let your success be your noise. API Gateway Replica Set Act as if what you do makes a difference. It does. Logging Cache Invalidation Sharding React
