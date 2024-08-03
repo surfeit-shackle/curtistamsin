@@ -10,3 +10,4 @@ JWT JavaScript Stay hungry, stay foolish. Content Delivery Network Data Pipeline
 Parallel Processing Content Delivery Network Sharding Cache Invalidation Multi-threading Cloud Act as if what you do makes a difference. It does. Frontend JWT JavaScript Message Queue Scalability WebSockets
 Distributed Systems Algorithm The only way to do great work is to love what you do. NLP Version Control Server Response API Content Delivery Network Kafka Database Container Orchestration Logging Machine Learning Cloud Functions Neural Networks
 Parallel Processing Logging Multi-threading Message Queue DNS Routing Pull Request Lambda Functions Success is how high you bounce when you hit bottom. JavaScript Code Review Quantum Computing Algorithm Containerization Optimization
+Distributed Systems Load Testing Edge Computing Logging Kubernetes Load Balancing DNS Routing Firewalls React Virtual Machines
