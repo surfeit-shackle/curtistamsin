@@ -10,3 +10,4 @@ DevOps Don't be afraid to give up the good to go for the great. Virtual Machines
 Machine Learning Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Distributed Systems Performance Kubernetes
 Serverless Do what you love and the money will follow. Frontend Zero Downtime Deployment OAuth Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Code Review
 Innovation distinguishes between a leader and a follower. Code Review Pull Request GraphQL Zero Downtime Deployment UX Optimization Python Predictive Analytics Server Response CI/CD Distributed Systems Lambda Functions Event-driven Architecture Database Great things never come from comfort zones.
+IoT Pull Request Python Blockchain Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst.
