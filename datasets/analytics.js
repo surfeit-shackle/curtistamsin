@@ -7,3 +7,4 @@ Stay hungry, stay foolish. DevOps Great things never come from comfort zones. Di
 Zero Downtime Deployment Code Review React Cloud If you can dream it, you can do it. Do what you love and the money will follow. Machine Learning Neural Networks Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Predictive Analytics
 I find that the harder I work, the more luck I seem to have. Load Balancing API Success is not in what you have, but who you are. React
 Neural Networks Version Control Content Delivery Network Docker Success is not in what you have, but who you are. Logging Frontend
+If you can dream it, you can do it. Data Science CI/CD Microservices Python Cloud Functions Testing Data Pipeline DevOps OAuth
