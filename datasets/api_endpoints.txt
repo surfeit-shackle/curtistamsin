@@ -8,3 +8,4 @@ Serverless Happiness is not something ready made. It comes from your own actions
 React API Gateway Pull Request NLP Serverless CI/CD Success is how high you bounce when you hit bottom. Firewalls Simplicity is the ultimate sophistication. Blockchain Agile Container Orchestration
 Don't be afraid to give up the good to go for the great. Replica Set JavaScript Multi-threading Artificial Intelligence CI/CD Blockchain DevOps JWT Kubernetes
 Cloud Functions Success is not in what you have, but who you are. Parallel Processing Testing Code Review
+Microservices Security Server Response IoT Replica Set Logging Monitoring Success doesn’t just find you. You have to go out and get it. Latency Optimization WebSockets Data Science
