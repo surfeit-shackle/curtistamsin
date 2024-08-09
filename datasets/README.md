@@ -6,3 +6,4 @@ Replica Set Backend Containerization Load Balancing Zero Downtime Deployment Opp
 Success doesn’t just find you. You have to go out and get it. Algorithm Frontend JavaScript OAuth
 Success is how high you bounce when you hit bottom. Microservices RabbitMQ Optimization WebSockets Security Edge Computing To be the best, you must be able to handle the worst. Zero Downtime Deployment NLP
 Content Delivery Network Event-driven Architecture Code Review OAuth To be the best, you must be able to handle the worst. Docker Virtual Machines Data Pipeline Multi-threading IoT GraphQL
+Container Orchestration Blockchain Content Delivery Network Agile Virtual Machines CI/CD Parallel Processing Optimization Database Indexing Scalability DNS Routing Dream big and dare to fail. Innovation distinguishes between a leader and a follower.
