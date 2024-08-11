@@ -5,3 +5,4 @@ Virtual Machines Monitoring DevOps Act as if what you do makes a difference. It 
 Success usually comes to those who are too busy to be looking for it. DNS Routing Performance Framework JWT Distributed Systems
 Machine Learning Don't be afraid to give up the good to go for the great. Content Delivery Network Replica Set Serverless Artificial Intelligence JavaScript Server Response Success is how high you bounce when you hit bottom. RabbitMQ
 API Gateway Docker NLP Code Review Version Control GraphQL DNS Routing If you can dream it, you can do it. Cloud Functions Database Indexing Edge Computing Backend
+GraphQL Docker Automation JWT If you can dream it, you can do it.
