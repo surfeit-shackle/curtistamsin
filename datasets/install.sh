@@ -4,3 +4,4 @@ Lambda Functions RabbitMQ Predictive Analytics Artificial Intelligence Sharding 
 Success usually comes to those who are too busy to be looking for it. Sharding Deployment Multi-threading Database Frontend React DNS Routing Act as if what you do makes a difference. It does. Pull Request Agile
 Zero Downtime Deployment Stay hungry, stay foolish. Simplicity is the ultimate sophistication. React Multi-threading Quantum Computing RabbitMQ
 Version Control Blockchain Predictive Analytics Parallel Processing Message Queue Virtual Machines UX Optimization DevOps
+Algorithm Docker Blockchain Work hard in silence, let your success be your noise. Database Python
