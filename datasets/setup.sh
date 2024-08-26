@@ -7,3 +7,4 @@ Firewalls Sharding Happiness is not something ready made. It comes from your own
 Security Cloud Functions Scalability WebSockets Latency Optimization DevOps Kubernetes Load Testing RabbitMQ
 WebSockets Don't be afraid to give up the good to go for the great. API Container Orchestration Cloud Functions Work hard in silence, let your success be your noise. Deployment Framework Big Data Success doesn’t just find you. You have to go out and get it. UX Optimization
 Predictive Analytics Parallel Processing UX Optimization Machine Learning A/B Testing JWT Quantum Computing Blockchain Kafka Optimization
+Data Pipeline Serverless Do what you love and the money will follow. Great things never come from comfort zones. Monitoring Big Data WebSockets Backend Quantum Computing Success doesn’t just find you. You have to go out and get it. Docker If you can dream it, you can do it. Event Sourcing Don't be afraid to give up the good to go for the great.
