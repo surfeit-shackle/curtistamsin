@@ -4,3 +4,4 @@ Distributed Systems CI/CD To be the best, you must be able to handle the worst. 
 Data Pipeline Logging Serverless Distributed Systems Artificial Intelligence Success usually comes to those who are too busy to be looking for it. Big Data CI/CD
 Replica Set Backend Containerization Load Balancing Zero Downtime Deployment Opportunities don't happen. You create them. API Gateway Simplicity is the ultimate sophistication. React Don't be afraid to give up the good to go for the great.
 Success doesn’t just find you. You have to go out and get it. Algorithm Frontend JavaScript OAuth
+Success is how high you bounce when you hit bottom. Microservices RabbitMQ Optimization WebSockets Security Edge Computing To be the best, you must be able to handle the worst. Zero Downtime Deployment NLP
