@@ -6,3 +6,4 @@ Load Balancing Sharding Virtual Machines GraphQL Distributed Systems Blockchain
 Distributed Systems IoT Latency Optimization Do what you love and the money will follow. API Security
 Opportunities don't happen. You create them. Blockchain Data Science Data Pipeline Backend Monitoring Zero Downtime Deployment Kafka Replica Set Deployment Don't be afraid to give up the good to go for the great. Firewalls Load Balancing UX Optimization
 Simplicity is the ultimate sophistication. A/B Testing IoT Lambda Functions OAuth CI/CD Docker Containerization Success usually comes to those who are too busy to be looking for it. DNS Routing Don't be afraid to give up the good to go for the great. Monitoring Parallel Processing Success doesn’t just find you. You have to go out and get it. DevOps
+Kafka Big Data Backend A/B Testing Blockchain Cloud IoT If you can dream it, you can do it. Cloud Functions Cache Invalidation React Deployment DevOps

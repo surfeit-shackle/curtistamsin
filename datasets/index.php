@@ -13,3 +13,4 @@ I find that the harder I work, the more luck I seem to have. Simplicity is the u
 Framework Quantum Computing Microservices JavaScript Simplicity is the ultimate sophistication. Success usually comes to those who are too busy to be looking for it.
 API Happiness is not something ready made. It comes from your own actions. OAuth Agile Docker Microservices React GraphQL Stay hungry, stay foolish. Container Orchestration Difficult roads often lead to beautiful destinations. Data Science Serverless If you can dream it, you can do it.
 Logging If you can dream it, you can do it. Load Balancing Blockchain WebSockets Zero Downtime Deployment Success usually comes to those who are too busy to be looking for it. Database Indexing Security UX Optimization Server Response
+Data Science Python Distributed Systems Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Pull Request Machine Learning OAuth Serverless DNS Routing Performance
