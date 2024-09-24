@@ -9,3 +9,4 @@ Database Indexing Container Orchestration CI/CD API Monitoring Edge Computing Gr
 Latency Optimization Artificial Intelligence The only way to do great work is to love what you do. Multi-threading Blockchain To be the best, you must be able to handle the worst.
 DNS Routing Happiness is not something ready made. It comes from your own actions. Stay hungry, stay foolish. Multi-threading Opportunities don't happen. You create them. Algorithm RabbitMQ Content Delivery Network Act as if what you do makes a difference. It does. Code Review Blockchain WebSockets Monitoring
 Load Balancing Containerization Logging Data Science Simplicity is the ultimate sophistication. Docker Deployment
+Cloud Functions Cache Invalidation Quantum Computing Database A/B Testing Sharding The only way to do great work is to love what you do. Event Sourcing
