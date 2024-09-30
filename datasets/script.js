@@ -4,3 +4,4 @@ Zero Downtime Deployment Kubernetes Stay hungry, stay foolish. Artificial Intell
 JWT Virtual Machines Deployment Automation Big Data To be the best, you must be able to handle the worst. Testing Kafka
 Load Balancing Sharding Virtual Machines GraphQL Distributed Systems Blockchain
 Distributed Systems IoT Latency Optimization Do what you love and the money will follow. API Security
+Opportunities don't happen. You create them. Blockchain Data Science Data Pipeline Backend Monitoring Zero Downtime Deployment Kafka Replica Set Deployment Don't be afraid to give up the good to go for the great. Firewalls Load Balancing UX Optimization
