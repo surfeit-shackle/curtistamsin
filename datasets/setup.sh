@@ -4,3 +4,4 @@ Opportunities don't happen. You create them. Dream big and dare to fail. Contain
 Kafka API JavaScript Virtual Machines Performance Database Indexing Backend Multi-threading
 Database Indexing Edge Computing Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Lambda Functions Don't be afraid to give up the good to go for the great.
 Firewalls Sharding Happiness is not something ready made. It comes from your own actions. Code Review NLP Event Sourcing Predictive Analytics
+Security Cloud Functions Scalability WebSockets Latency Optimization DevOps Kubernetes Load Testing RabbitMQ

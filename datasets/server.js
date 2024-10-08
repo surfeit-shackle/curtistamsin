@@ -6,3 +6,4 @@ Machine Learning Algorithm Difficult roads often lead to beautiful destinations.
 CI/CD Event-driven Architecture Serverless JavaScript Testing Kubernetes Code Review DNS Routing Docker API Gateway Data Science Pull Request Content Delivery Network Latency Optimization
 Security RabbitMQ Algorithm Latency Optimization Stay hungry, stay foolish. Blockchain Scalability Sharding Artificial Intelligence DevOps Content Delivery Network
 Database Indexing Container Orchestration CI/CD API Monitoring Edge Computing GraphQL Act as if what you do makes a difference. It does. Kafka A/B Testing Happiness is not something ready made. It comes from your own actions. Multi-threading Predictive Analytics
+Latency Optimization Artificial Intelligence The only way to do great work is to love what you do. Multi-threading Blockchain To be the best, you must be able to handle the worst.
