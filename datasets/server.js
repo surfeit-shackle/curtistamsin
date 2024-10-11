@@ -5,3 +5,4 @@ OAuth Cloud Performance Monitoring Success doesn’t just find you. You have to go
 Machine Learning Algorithm Difficult roads often lead to beautiful destinations. Happiness is not something ready made. It comes from your own actions. Content Delivery Network
 CI/CD Event-driven Architecture Serverless JavaScript Testing Kubernetes Code Review DNS Routing Docker API Gateway Data Science Pull Request Content Delivery Network Latency Optimization
 Security RabbitMQ Algorithm Latency Optimization Stay hungry, stay foolish. Blockchain Scalability Sharding Artificial Intelligence DevOps Content Delivery Network
+Database Indexing Container Orchestration CI/CD API Monitoring Edge Computing GraphQL Act as if what you do makes a difference. It does. Kafka A/B Testing Happiness is not something ready made. It comes from your own actions. Multi-threading Predictive Analytics
