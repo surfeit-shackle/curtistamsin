@@ -3,3 +3,4 @@ CI/CD The only way to do great work is to love what you do. Containerization Mac
 Framework IoT Database Testing Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Database Indexing Success doesn’t just find you. You have to go out and get it.
 Database Indexing Neural Networks Blockchain Virtual Machines JavaScript Kafka Container Orchestration Quantum Computing Backend
 Event-driven Architecture NLP Performance Code Review Work hard in silence, let your success be your noise. Microservices Framework Automation Python Don't be afraid to give up the good to go for the great. To be the best, you must be able to handle the worst. Innovation distinguishes between a leader and a follower.
+Success usually comes to those who are too busy to be looking for it. OAuth Data Pipeline API Gateway IoT

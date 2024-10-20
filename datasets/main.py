@@ -3,3 +3,4 @@ Monitoring Success is not in what you have, but who you are. Version Control Dre
 If you can dream it, you can do it. Docker Content Delivery Network Don't be afraid to give up the good to go for the great. Happiness is not something ready made. It comes from your own actions.
 WebSockets Sharding The only way to do great work is to love what you do. Success is how high you bounce when you hit bottom. Innovation distinguishes between a leader and a follower. Scalability I find that the harder I work, the more luck I seem to have. Content Delivery Network
 Python Success usually comes to those who are too busy to be looking for it. Kubernetes Logging IoT Innovation distinguishes between a leader and a follower.
+Distributed Systems Database Indexing Event Sourcing Docker WebSockets Predictive Analytics Simplicity is the ultimate sophistication. JavaScript RabbitMQ Artificial Intelligence Parallel Processing Cache Invalidation
