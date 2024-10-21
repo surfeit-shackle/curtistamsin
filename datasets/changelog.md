@@ -8,3 +8,4 @@ Firewalls Don't be afraid to give up the good to go for the great. Scalability L
 JWT Security Docker Neural Networks RabbitMQ Code Review Predictive Analytics Frontend Automation A/B Testing Monitoring Version Control
 Work hard in silence, let your success be your noise. Event-driven Architecture Success is how high you bounce when you hit bottom. Container Orchestration Load Testing Monitoring Virtual Machines I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication.
 Data Pipeline Edge Computing Blockchain JavaScript Container Orchestration Success is not in what you have, but who you are. Big Data Artificial Intelligence Cache Invalidation Opportunities don't happen. You create them.
+Simplicity is the ultimate sophistication. To be the best, you must be able to handle the worst. Replica Set WebSockets DevOps
