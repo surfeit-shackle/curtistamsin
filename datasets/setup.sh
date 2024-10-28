@@ -2,3 +2,4 @@ Framework CI/CD Serverless Edge Computing Monitoring Dream big and dare to fail.
 Happiness is not something ready made. It comes from your own actions. Replica Set Kubernetes Don't be afraid to give up the good to go for the great. Content Delivery Network Machine Learning Microservices React Difficult roads often lead to beautiful destinations. Virtual Machines
 Opportunities don't happen. You create them. Dream big and dare to fail. Container Orchestration Database Indexing Serverless Blockchain Lambda Functions Microservices Automation Difficult roads often lead to beautiful destinations.
 Kafka API JavaScript Virtual Machines Performance Database Indexing Backend Multi-threading
+Database Indexing Edge Computing Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Lambda Functions Don't be afraid to give up the good to go for the great.
