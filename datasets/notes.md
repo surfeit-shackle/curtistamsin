@@ -3,3 +3,4 @@ Cloud Agile Machine Learning DNS Routing Container Orchestration Cache Invalidat
 JavaScript Virtual Machines Machine Learning Success is how high you bounce when you hit bottom. Code Review Big Data React Cloud Functions GraphQL
 Pull Request Lambda Functions IoT Kubernetes Data Pipeline To be the best, you must be able to handle the worst. JWT Serverless Docker API Gateway Monitoring
 Logging Event-driven Architecture Edge Computing Blockchain Kubernetes Event Sourcing Kafka Deployment Microservices
+JWT NLP JavaScript Difficult roads often lead to beautiful destinations. Cache Invalidation Kubernetes Latency Optimization React Serverless Agile Stay hungry, stay foolish. Logging
