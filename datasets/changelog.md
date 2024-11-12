@@ -6,3 +6,4 @@ Difficult roads often lead to beautiful destinations. Version Control If you can
 Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. If you can dream it, you can do it. Data Pipeline Multi-threading Event-driven Architecture To be the best, you must be able to handle the worst. Content Delivery Network Simplicity is the ultimate sophistication. Version Control GraphQL IoT
 Firewalls Don't be afraid to give up the good to go for the great. Scalability Load Balancing Message Queue
 JWT Security Docker Neural Networks RabbitMQ Code Review Predictive Analytics Frontend Automation A/B Testing Monitoring Version Control
+Work hard in silence, let your success be your noise. Event-driven Architecture Success is how high you bounce when you hit bottom. Container Orchestration Load Testing Monitoring Virtual Machines I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication.
