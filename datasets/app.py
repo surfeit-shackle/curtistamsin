@@ -4,3 +4,4 @@ Artificial Intelligence Performance GraphQL Quantum Computing Zero Downtime Depl
 Opportunities don't happen. You create them. Containerization A/B Testing Great things never come from comfort zones. API Data Pipeline Do what you love and the money will follow. Lambda Functions
 A/B Testing Pull Request Machine Learning Sharding CI/CD Data Science Container Orchestration Monitoring GraphQL Quantum Computing Testing
 Data Science Machine Learning Multi-threading Cloud Functions Framework Monitoring API Gateway Data Pipeline
+Dream big and dare to fail. Happiness is not something ready made. It comes from your own actions. Performance Artificial Intelligence A/B Testing Logging Act as if what you do makes a difference. It does. Work hard in silence, let your success be your noise. Sharding Kafka Success is not in what you have, but who you are. RabbitMQ
